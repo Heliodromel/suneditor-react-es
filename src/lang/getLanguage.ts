@@ -1,3 +1,4 @@
+import langs from "suneditor/src/lang";
 import Lang from "../types/lang";
 
 const getLanguage = (lang?: Lang) => {
@@ -5,7 +6,7 @@ const getLanguage = (lang?: Lang) => {
     case "object":
       return lang;
     case "string":
-      return require(`suneditor/src/lang/${lang}.js`);
+      return langs[lang];
     default:
       return undefined;
   }
