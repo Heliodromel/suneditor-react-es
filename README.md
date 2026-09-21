@@ -1,4 +1,7 @@
-# suneditor-react
+# suneditor-react-es
+
+*IMPORTANT this is a fork of [suneditor-react](https://github.com/mkhstar/suneditor-react) to make it compatible with es module
+and building with vite*
 
 > A React Component for [SunEditor](http://suneditor.com)
 

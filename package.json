@@ -1,10 +1,10 @@
 {
-  "name": "suneditor-react",
-  "version": "3.6.1",
-  "description": "A React Component for Suneditor",
+  "name": "suneditor-react-es",
+  "version": "4.0.0",
+  "description": "Fork of https://github.com/mkhstar/suneditor-react",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mkhstar/suneditor-react"
+    "url": "https://github.com/mkhstar/suneditor-react-es"
   },
   "main": "dist/index.js",
   "scripts": {
